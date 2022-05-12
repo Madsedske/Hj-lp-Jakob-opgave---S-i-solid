@@ -10,7 +10,7 @@ namespace Hjælp_Jakob_opgave____S__i_solid
 
     public class Message
     {
-        string to, from, body, subject, cc;
+        string to, from, body, subject, cc; 
 
         public Message(string to, string from, string body, string subject, string cc)
         {
